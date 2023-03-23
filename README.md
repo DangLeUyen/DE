@@ -14,4 +14,5 @@ After preprocessing our database, we used tableau-public flatform for data visua
 **3. PostgreSQL** is a powerful, open source object-relational database system
 
 **4. Tableau Public** is a free platform to explore, create and publicly share data visualizations online.
+Here is the link to our dashboards: https://public.tableau.com/app/profile/uyen5114/viz/AmazonBookDetail/BOOK_DETAILS
 
